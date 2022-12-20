@@ -1,7 +1,5 @@
-Template Name: Alpha
-Template Author: Untree.co
-Template License: https://creativecommons.org/licenses/by/3.0/
-Author URI: https://untree.co/
+Web Name : JD's Detailing Service
+Author: EncinasPro
 
-Twitter: https://twitter.com/Untree_co
-Facebook: https://web.facebook.com/Untree.co/
+Twitter : https://twitter.com/@EncinasPro
+Linkindin : www.linkedin.com/in/guillermoencinaspro 
